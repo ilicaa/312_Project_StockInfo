@@ -1,0 +1,35 @@
+<Window x:Class="StockApp.SearchStockWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Search Stock" Height="350" Width="400">
+    <Grid Background="#FF313131">
+        <StackPanel Margin="10">
+            <Label Content="Search Stock" Foreground="White" FontWeight="Bold"/>
+            <TextBox x:Name="SearchTextBox"/>
+            <Button Content="Search" Click="SearchButton_Click" Margin="10">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF7B71F9" Offset="1"/>
+                        <GradientStop Color="White" Offset="0"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <DataGrid x:Name="SearchResultsDataGrid" AutoGenerateColumns="True" Height="200">
+                <DataGrid.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFBBBBBB" Offset="1"/>
+                        <GradientStop Color="White" Offset="0"/>
+                    </LinearGradientBrush>
+                </DataGrid.Background>
+            </DataGrid>
+            <Button Content="Back to Dashboard" Click="BackButton_Click" Margin="10">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFB9B9B9" Offset="1"/>
+                        <GradientStop Color="White" Offset="0"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
