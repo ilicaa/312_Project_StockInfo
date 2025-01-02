@@ -25,8 +25,15 @@
                     </LinearGradientBrush>
                 </Button.Background>
             </Button>
-            <Button Content="Delete Stock" Click="DeleteStock_Click" Margin="10"/>
             <Button Content="Search Stock" Click="SearchStock_Click" Margin="10" BorderBrush="{x:Null}">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFFF0AEA" Offset="1"/>
+                        <GradientStop Color="White"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button Content="Delete Stock" Click="DeleteStock_Click" Margin="10" BorderBrush="{x:Null}">
                 <Button.Background>
                     <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                         <GradientStop Color="#FF7B71F9" Offset="1"/>
