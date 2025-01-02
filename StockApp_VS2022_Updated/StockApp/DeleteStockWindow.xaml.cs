@@ -33,7 +33,7 @@ namespace StockApp
             if (isDeleted)
             {
                 MessageBox.Show($"Stock with name '{stockSymbol}' has been deleted.", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
-                this.Close(); 
+                return; 
             }
             else
             {
