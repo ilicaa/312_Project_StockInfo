@@ -24,6 +24,13 @@ namespace StockApp
             this.Close();
         }
 
+        private void DeleteStock_Click(object sender, RoutedEventArgs e)
+        {
+            DeleteStockWindow deleteStockWindow = new DeleteStockWindow();
+            deleteStockWindow.Show();
+            this.Close();
+        }
+
         private void SearchStock_Click(object sender, RoutedEventArgs e)
         {
             SearchStockWindow searchStockWindow = new SearchStockWindow();
