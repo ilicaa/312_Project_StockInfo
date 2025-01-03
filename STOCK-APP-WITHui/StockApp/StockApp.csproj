@@ -1,0 +1,41 @@
+
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <EnableDefaultPageItems>false</EnableDefaultPageItems>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="stockInfoBG.webp" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Include="MainWindow.xaml" />
+    <Page Include="StockListWindow.xaml" />
+    <Page Include="AddStockWindow.xaml" />
+    <Page Include="DeleteStockWindow.xaml" />
+    <Page Include="SearchStockWindow.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="MainWindow.xaml.cs" />
+    <Compile Include="StockListWindow.xaml.cs" />
+    <Compile Include="AddStockWindow.xaml.cs" />
+    <Compile Include="DeleteStockWindow.xaml.cs" />
+    <Compile Include="SearchStockWindow.xaml.cs" />
+    <Compile Include="App.xaml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="stockInfoBG.webp" />
+  </ItemGroup>
+
+</Project>

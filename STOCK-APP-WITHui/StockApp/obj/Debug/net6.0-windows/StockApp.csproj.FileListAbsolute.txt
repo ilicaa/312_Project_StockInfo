@@ -1,0 +1,120 @@
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockListWindow.baml
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\AddStockWindow.baml
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\SearchStockWindow.baml
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockListWindow.g.cs
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\AddStockWindow.g.cs
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\SearchStockWindow.g.cs
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp_MarkupCompile.cache
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp.g.resources
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp.AssemblyInfoInputs.cache
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp.AssemblyInfo.cs
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp.csproj.CoreCompileInputs.cache
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\bin\Debug\net6.0-windows\StockApp.exe
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\bin\Debug\net6.0-windows\StockApp.deps.json
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\bin\Debug\net6.0-windows\StockApp.runtimeconfig.json
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\bin\Debug\net6.0-windows\StockApp.dll
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\bin\Debug\net6.0-windows\StockApp.pdb
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp.dll
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\refint\StockApp.dll
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp.pdb
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp.genruntimeconfig.cache
+C:\Users\ipeks\Downloads\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\ref\StockApp.dll
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\bin\Debug\net6.0-windows\StockApp.exe
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\bin\Debug\net6.0-windows\StockApp.deps.json
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\bin\Debug\net6.0-windows\StockApp.runtimeconfig.json
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\bin\Debug\net6.0-windows\StockApp.dll
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\bin\Debug\net6.0-windows\StockApp.pdb
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockListWindow.baml
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\AddStockWindow.baml
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\SearchStockWindow.baml
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockListWindow.g.cs
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\AddStockWindow.g.cs
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\SearchStockWindow.g.cs
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp_MarkupCompile.cache
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp.g.resources
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp.AssemblyInfoInputs.cache
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp.AssemblyInfo.cs
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp.csproj.CoreCompileInputs.cache
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp.dll
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\refint\StockApp.dll
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp.pdb
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\StockApp.genruntimeconfig.cache
+C:\Users\ilica\OneDrive\Masaüstü\StockApp_VS2022_Updated\StockApp\obj\Debug\net6.0-windows\ref\StockApp.dll
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\StockApp.csproj.AssemblyReference.cache
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\StockListWindow.baml
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\AddStockWindow.baml
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\DeleteStockWindow.baml
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\SearchStockWindow.baml
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\StockListWindow.g.cs
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\AddStockWindow.g.cs
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\DeleteStockWindow.g.cs
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\SearchStockWindow.g.cs
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\StockApp_MarkupCompile.cache
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\StockApp.g.resources
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\StockApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\StockApp.AssemblyInfoInputs.cache
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\StockApp.AssemblyInfo.cs
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\StockApp.csproj.CoreCompileInputs.cache
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\StockApp.dll
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\refint\StockApp.dll
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\StockApp.pdb
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\bin\Debug\net6.0-windows\StockApp.exe
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\bin\Debug\net6.0-windows\StockApp.deps.json
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\bin\Debug\net6.0-windows\StockApp.runtimeconfig.json
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\bin\Debug\net6.0-windows\StockApp.dll
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\bin\Debug\net6.0-windows\StockApp.pdb
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\StockApp.csproj.CopyComplete
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\StockApp.genruntimeconfig.cache
+C:\Users\cagra\Desktop\Yeni klasör (2)\StockApp\obj\Debug\net6.0-windows\ref\StockApp.dll
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\bin\Debug\net6.0-windows\StockApp.exe
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\bin\Debug\net6.0-windows\StockApp.deps.json
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\bin\Debug\net6.0-windows\StockApp.runtimeconfig.json
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\bin\Debug\net6.0-windows\StockApp.dll
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\bin\Debug\net6.0-windows\StockApp.pdb
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\StockApp.csproj.AssemblyReference.cache
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\StockListWindow.baml
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\AddStockWindow.baml
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\DeleteStockWindow.baml
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\SearchStockWindow.baml
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\StockListWindow.g.cs
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\AddStockWindow.g.cs
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\DeleteStockWindow.g.cs
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\SearchStockWindow.g.cs
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\StockApp_MarkupCompile.cache
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\StockApp.g.resources
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\StockApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\StockApp.AssemblyInfoInputs.cache
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\StockApp.AssemblyInfo.cs
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\StockApp.csproj.CoreCompileInputs.cache
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\StockApp.csproj.Up2Date
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\StockApp.dll
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\refint\StockApp.dll
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\StockApp.pdb
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\StockApp.genruntimeconfig.cache
+C:\Users\ilica\OneDrive\Masaüstü\STOCKAPP_LAST_VERSION\StockApp\obj\Debug\net6.0-windows\ref\StockApp.dll
