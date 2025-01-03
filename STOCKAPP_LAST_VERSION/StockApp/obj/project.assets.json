@@ -177,11 +177,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cagra\\Desktop\\Yeni klasör (2)\\StockApp\\StockApp.csproj",
+      "projectUniqueName": "C:\\Users\\cagra\\Desktop\\STOCKAPP_LAST_VERSION\\StockApp\\StockApp.csproj",
       "projectName": "StockApp",
-      "projectPath": "C:\\Users\\cagra\\Desktop\\Yeni klasör (2)\\StockApp\\StockApp.csproj",
+      "projectPath": "C:\\Users\\cagra\\Desktop\\STOCKAPP_LAST_VERSION\\StockApp\\StockApp.csproj",
       "packagesPath": "C:\\Users\\cagra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cagra\\Desktop\\Yeni klasör (2)\\StockApp\\obj\\",
+      "outputPath": "C:\\Users\\cagra\\Desktop\\STOCKAPP_LAST_VERSION\\StockApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cagra\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tXsQcGUX4lCAnjCV8B3Y2sptr4yKXgZ3+7BQuN1DyTr3YOKrwLzvk5W32apqcpcolXzHp5kuSLTyd/o5QhDQfg==",
+  "dgSpecHash": "Yx81dpxEokhWzd2IK+IMhv9GCXp4O55BTb0fA3qQviMt+VhSRPMkyv3C5ZQRb5rOpBNGnwqtyR0eCcFGQ3PVPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cagra\\Desktop\\Yeni klasör (2)\\StockApp\\StockApp.csproj",
+  "projectFilePath": "C:\\Users\\cagra\\Desktop\\STOCKAPP_LAST_VERSION\\StockApp\\StockApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cagra\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\cagra\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

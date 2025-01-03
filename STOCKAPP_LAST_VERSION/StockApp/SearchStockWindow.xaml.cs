@@ -6,8 +6,8 @@ namespace StockApp
 {
     public partial class SearchStockWindow : Window
     {
-        // Connection string for the database
-        private string conString = "Data Source=DESKTOP-6GQR2TM;Initial Catalog=StockAppDb;Integrated Security=True";
+        public SqlConnection data_conc = new SqlConnection("Data Source=192.168.1.1,1433; Network Library=DBMSSOCN; Initial Catalog=StockAppDb;User ID=admin;Password=1;Tcp");
+
 
         public SearchStockWindow()
         {
@@ -25,7 +25,7 @@ namespace StockApp
             try
             {
                 // Create and open a connection to the database
-                using (SqlConnection connection = new SqlConnection(conString))
+                using (SqlConnection connection = new SqlConnection(data_conc.ConnectionString)) // Temporary SqlConnection
                 {
                     connection.Open();
 

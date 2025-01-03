@@ -11,8 +11,8 @@ namespace StockApp
             InitializeComponent();
         }
 
-        // Connection string for the database
-        public string conString = "Data Source=DESKTOP-6GQR2TM;Initial Catalog=StockAppDb;Integrated Security=True";
+        public SqlConnection data_conc = new SqlConnection("Data Source=192.168.1.1,1433; Network Library=DBMSSOCN; Initial Catalog=StockAppDb;User ID=admin;Password=1;Tcp");
+
 
         private void AddStockButton_Click(object sender, RoutedEventArgs e)
         {
@@ -33,7 +33,7 @@ namespace StockApp
             // Database logic to save the stock
             try
             {
-                using (SqlConnection connection = new SqlConnection(conString))
+                using (SqlConnection connection = new SqlConnection(data_conc.ConnectionString)) // Temporary SqlConnection
                 {
                     connection.Open();
 
